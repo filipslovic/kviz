@@ -11,4 +11,21 @@ body {
     background: linear-gradient(90deg, rgb(32, 216, 121) 0%, rgba(0,212,255,1) 100%);
     font-family: 'Poppins', sans-serif; 
     }
-   
+form{
+    width: 30%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 50px;
+    margin-top: 150px;
+    
+}
+.btn-primary
+{
+    margin-top: 10px;
+    width:100%;
+    border: none;
+    border-radius:20px;
+    background: linear-gradient(90deg, rgb(32, 216, 121) 0%, rgba(0,212,255,1) 100%);
+    
+
+}
