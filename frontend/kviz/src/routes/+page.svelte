@@ -23,7 +23,7 @@
             <div class="mb-3 mt-4">
               <label for="exampleInputPassword1" class="form-label">Password</label>
               <input type="password" class="form-control" id="exampleInputPassword1">
-              <div id="emailHelp" class="form-text">Nemate nalog? <a href="#"> registrujte se!</a></div>
+              <div id="emailHelp" class="form-text">Nemate nalog? <a href="+page.svelte"> registrujte se!</a></div>
             </div>
             
             <button type="submit" class="btn btn-primary mt-4">Login</button>
