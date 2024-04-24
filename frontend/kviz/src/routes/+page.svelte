@@ -7,8 +7,9 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <style>
-        @import './style.css';
+        @import './styles.css';
     </style>
+    
     <title>Login</title>
   </head>
   <body>
@@ -23,7 +24,7 @@
             <div class="mb-3 mt-4">
               <label for="exampleInputPassword1" class="form-label">Password</label>
               <input type="password" class="form-control" id="exampleInputPassword1">
-              <div id="emailHelp" class="form-text">Nemate nalog? <a href="+page.svelte"> registrujte se!</a></div>
+              <div id="emailHelp" class="form-text">Nemate nalog? <a href="register"> registrujte se!</a></div>
             </div>
             
             <button type="submit" class="btn btn-primary mt-4">Login</button>
