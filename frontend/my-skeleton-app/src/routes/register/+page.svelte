@@ -44,7 +44,7 @@
                     <p class="text-gray-600 text-sm italic">Imate nalog? <a href="login" class="text-blue-500">login</a></p>
                 </div>
                 <div style="text-align: center;">
-                    <button type="submit" class="btn  bg-primary-siva transition-transform duration-200 hover:bg-gradient-to-br from-red-200 via-orange-200 to-yellow-200 text-white font-bold py-3 px-8 rounded-full focus:outline-none focus:shadow-outline hover:text-black ">Login</button>
+                    <button type="submit" class="btn  bg-primary-siva transition-transform duration-200 hover:bg-gradient-to-br from-red-200 via-orange-200 to-yellow-200 text-white font-bold py-3 px-8 rounded-full focus:outline-none focus:shadow-outline hover:text-primary-siva ">Create account</button>
                 </div>
             </form>
         </div>
