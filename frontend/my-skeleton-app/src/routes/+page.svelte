@@ -12,7 +12,7 @@
             </div>
             <div class="flex items-center">
                 <a href="login" class="mr-4 text-2xl font-bold text-black transition-colors transition-transform duration-200 hover:text-blue-500 hover:scale-105">Login</a>
-                <a href="+page.svelte" class="text-2xl font-bold text-black transition-colors transition-transform duration-200 hover:text-blue-500 hover:scale-105">Register</a>
+                <a href="register" class="text-2xl font-bold text-black transition-colors transition-transform duration-200 hover:text-blue-500 hover:scale-105">Register</a>
             </div>
         </nav>
     </div>
