@@ -11,7 +11,7 @@
                 <input type="password" class="shadow appearance-none border rounded w-full py-3 px-4 text-lg text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline" id="exampleInputPassword1">
                 <p class="text-gray-600 text-sm italic">Nemate nalog? <a href="register" class="text-blue-500">registrujte se!</a></p>
             </div>
-            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded focus:outline-none focus:shadow-outline">Login</button>
+            <button type="submit" class="bg-primary-siva hover:bg-blue-700 text-white font-bold py-3 px-6 rounded focus:outline-none focus:shadow-outline">Login</button>
         </form>
     </div>
 </div>
